@@ -5,6 +5,8 @@ class Coin extends Equatable {
   final String fullName;
   final double price;
 
+
+
   const Coin({
     required this.name,
     required this.fullName,
